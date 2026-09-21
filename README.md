@@ -27,8 +27,7 @@ Codveda_Python-Dev-Intern/
 ├── Level3-Advanced_Task2.py
 ├── Level3-Advanced_Task3.py
 ├── LICENSE
-├── README.md
-└── .gitignore (if present in your local clone)
+└── README.md
 ```
 
 ### File Highlights
