@@ -20,6 +20,7 @@ The projects are beginner-friendly, easy to run locally, and suitable for learni
 Codveda_Python-Dev-Intern/
 ├── files/
 |     ├── docs.txt
+|     └── docs_encrypt_file.txt
 ├── Level1-Basic_Task1.py
 ├── Level1-Basic_Task2.ipynb
 ├── Level1-Basic_Task3.ipynb
