@@ -29,7 +29,6 @@ Codveda_Python-Dev-Intern/
 ├── Level2-Intermediate_Task3.ipynb
 ├── Level3-Advanced_Task2.py
 ├── Level3-Advanced_Task3.py
-├── LICENSE
 └── README.md
 ```
 
