@@ -18,18 +18,18 @@ The projects are beginner-friendly, easy to run locally, and suitable for learni
 
 ```text
 Codveda_Python-Dev-Intern/
-├── files/
-|     ├── docs.txt
-|     └── docs_encrypt_file.txt
-├── Level1-Basic_Task1.py
-├── Level1-Basic_Task2.ipynb
-├── Level1-Basic_Task3.ipynb
-├── Level2-Intermediate_Task1.py
-├── Level2-Intermediate_Task2.ipynb
-├── Level2-Intermediate_Task3.ipynb
-├── Level3-Advanced_Task2.py
-├── Level3-Advanced_Task3.py
-└── README.md
+    ├── files/
+    |     ├── docs.txt
+    |     └── docs_encrypt_file.txt
+    ├── Level1-Basic_Task1.py
+    ├── Level1-Basic_Task2.ipynb
+    ├── Level1-Basic_Task3.ipynb
+    ├── Level2-Intermediate_Task1.py
+    ├── Level2-Intermediate_Task2.ipynb
+    ├── Level2-Intermediate_Task3.ipynb
+    ├── Level3-Advanced_Task2.py
+    ├── Level3-Advanced_Task3.py
+    └── README.md
 ```
 
 ### File Highlights
